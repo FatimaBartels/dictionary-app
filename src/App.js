@@ -1,3 +1,5 @@
+import React from "react";
+
 import logo from "./site-logo.png";
 import "./App.css";
 import Dictionary from "./Dictionary";
