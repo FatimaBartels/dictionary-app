@@ -4,6 +4,10 @@
   font-weight: bold;
 }
 
+.Meaning .definition-word {
+  font-weight: 500;
+}
+
 .Meaning .example {
   color: #70757a;
   font-style: italic;
