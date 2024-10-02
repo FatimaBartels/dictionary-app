@@ -13,17 +13,17 @@ button {
   border-radius: 5px;
   margin-right: 10px;
   font-size: 1.25rem;
-  color: #59ddee;
+  color: #28537ec4;
   transition: all 180ms ease-in-out;
 }
 
 button:hover {
-  background: #59ddee;
+  background: #28537ec4;
   color: white;
   border-radius: 5px;
 }
 
 .Phonetic .text {
-  opacity: 0.6;
+  opacity: 0.7;
   font-weight: 500;
 }

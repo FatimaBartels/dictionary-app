@@ -15,7 +15,17 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="sky" />
         </main>
-        <footer className="App-footer">Coded by Fatima Bartels</footer>
+        <footer className="App-footer">
+          Coded by{" "}
+          <a
+            href="https://www.fatimabartels.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Fatima Bartels
+          </a>{" "}
+          and hosted on Netlify
+        </footer>
       </div>
     </div>
   );

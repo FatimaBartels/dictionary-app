@@ -2,10 +2,8 @@
   font-size: 24px;
   line-height: 1.5;
   font-weight: bold;
-}
-
-.Meaning .definition-word {
-  font-weight: 500;
+  text-decoration: underline;
+  margin-bottom: 20px;
 }
 
 .Meaning .example {
