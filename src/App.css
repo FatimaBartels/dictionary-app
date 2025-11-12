@@ -1,8 +1,5 @@
 body {
-  background-image: url("./dictionary-bg.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background-color: #f0f5fa;
 }
 
 a {
